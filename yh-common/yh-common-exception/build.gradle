@@ -1,0 +1,8 @@
+apply plugin: 'org.springframework.boot'
+
+group 'com.yunhe'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    compile project(':yh-common:yh-common-object')
+}

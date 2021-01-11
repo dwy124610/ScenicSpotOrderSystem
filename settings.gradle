@@ -1,0 +1,11 @@
+rootProject.name = 'ScenicSpotOrderSystem'
+include 'yh-eureka'
+include 'yh-common'
+include 'yh-common:yh-common-object'
+include 'yh-user'
+include 'yh-scenicSpots'
+include 'yh-tickets'
+include 'yh-orders'
+include 'yh-common:yh-common-exception'
+findProject(':yh-common:yh-common-exception')?.name = 'yh-common-exception'
+

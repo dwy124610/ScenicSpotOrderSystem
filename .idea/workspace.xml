@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e3c67be-d426-46e4-9a87-517ec6d866d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/yh-common/yh-common-object">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/yh-common/yh-common-object">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-exception" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-exception" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-exception" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-object" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-object" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-common" type="2d1252cf:ModuleNode" />
+                <item name="yh-common-object" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-eureka" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-eureka" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-orders" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-orders" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-orders" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-user" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ScenicSpotOrderSystem" type="f1a62948:ProjectNode" />
+                <item name="yh-user" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mp6q0UVed6dn3fcE5aBKsvAvcp" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yh-common/yh-common-exception" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.60229886" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.yunhe.orders.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\ScenicSpotOrderSystem\yh-common\yh-common-object\src\main\resources\mybatis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ScenicSpotOrderSystem:yh-common:yh-common-object [mybatisGenerate]">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScenicSpotOrderSystem:yh-common:yh-common-object [mybatisGenerate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/yh-common/yh-common-object" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="mybatisGenerate" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ScenicSpotOrderSystem.yh-eureka.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yunhe.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunhe.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ScenicSpotOrderSystem.yh-orders.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunhe.orders.OrdersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScenicSpotsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ScenicSpotOrderSystem.yh-scenicSpots.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yunhe.scenicSpots.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunhe.scenicSpots.ScenicSpotsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ScenicSpotOrderSystem.yh-tickets.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yunhe.tickets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunhe.tickets.TicketsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ScenicSpotOrderSystem.yh-user.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yunhe.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yunhe.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TicketsApplication" />
+        <item itemvalue="Spring Boot.ScenicSpotsApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Gradle.ScenicSpotOrderSystem:yh-common:yh-common-object [mybatisGenerate]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e3c67be-d426-46e4-9a87-517ec6d866d6" name="Default Changelist" comment="" />
+      <created>1610178375172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610178375172</updated>
+      <workItem from="1610178377590" duration="2563000" />
+      <workItem from="1610180972384" duration="243000" />
+      <workItem from="1610181226966" duration="74000" />
+      <workItem from="1610181308657" duration="183000" />
+      <workItem from="1610181504169" duration="4773000" />
+      <workItem from="1610326624816" duration="8477000" />
+      <workItem from="1610335869599" duration="3591000" />
+      <workItem from="1610344737668" duration="5805000" />
+      <workItem from="1610350760503" duration="5321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1480" y="345" key="#Project_Structure" timestamp="1610353011193">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="345" key="#Project_Structure/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610353011193" />
+    <state x="-1155" y="476" key="#com.intellij.ide.util.MemberChooser" timestamp="1610355567826">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="476" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355567826" />
+    <state x="-1231" y="546" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610335740924">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="546" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610335740924" />
+    <state x="-1455" y="694" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610351697616">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1455" y="694" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610351697616" />
+    <state x="-1343" y="252" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610351946762">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1343" y="252" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610351946762" />
+    <state x="-1181" y="525" key="FileChooserDialogImpl" timestamp="1610352724853">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1181" y="525" key="FileChooserDialogImpl/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610352724853" />
+    <state width="1292" height="323" key="GridCell.Tab.0.bottom" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.0.bottom/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.0.center" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.0.center/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.0.left" timestamp="1610355812347">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.0.left/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812347" />
+    <state width="1292" height="323" key="GridCell.Tab.0.right" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.0.right/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.1.bottom" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.1.bottom/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.1.center" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.1.center/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.1.left" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.1.left/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state width="1292" height="323" key="GridCell.Tab.1.right" timestamp="1610355812348">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="323" key="GridCell.Tab.1.right/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610355812348" />
+    <state x="-1299" y="544" key="NewModule_or_Project.wizard" timestamp="1610180717736">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1299" y="544" key="NewModule_or_Project.wizard/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610180717736" />
+    <state x="-1459" y="415" key="SettingsEditor" timestamp="1610328018234">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="415" key="SettingsEditor/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610328018234" />
+    <state x="-1586" y="370" key="new project wizard" timestamp="1610352727632">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1586" y="370" key="new project wizard/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610352727632" />
+    <state x="-1297" y="477" width="672" height="678" key="search.everywhere.popup" timestamp="1610328343378">
+      <screen x="-1920" y="252" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="477" width="672" height="678" key="search.everywhere.popup/0.0.1280.760/-1920.252.1920.1040@-1920.252.1920.1040" timestamp="1610328343378" />
+  </component>
+</project>
