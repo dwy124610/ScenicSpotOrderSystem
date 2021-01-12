@@ -38,7 +38,7 @@ subprojects {
             mavenBom "mysql:mysql-connector-java:${mysqllVersion}"
         }
     }
-    if (it.name != 'yh-eureka' || it.name != 'yh-common-exception' ) {
+    if (it.name != 'yh-eureka' && it.name != 'yh-common-exception' ) {
         dependencies {
             implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter'
             implementation 'mysql:mysql-connector-java:5.1.46'
